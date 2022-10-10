@@ -1,2 +1,2 @@
 # EasyHTTP-Library-2.0
-Implement XHR using ES6 Promises feature
+Implement XHR using ES6 Promises and fetch feature
